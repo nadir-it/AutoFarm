@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/nadir-it/AutoFarm/main/OpAmp.JPG" width="80%">
+
 # AutoFarm
 Solar powered AVR irrigation system
 
