@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/nadir-it/AutoFarm/main/OpAmp.JPG" width="80%">
 # AutoFarm
 Solar powered AVR irrigation system
 
@@ -12,3 +13,5 @@ The amperage sensor was used to monitor the charging of a used automotive batter
 Hibernate mode with interrupt wake needs to be implemented at a later date.
 
 Code makes use of RTClib which is available under an MIT license. The rest of this project is available under GNU General Public License v3.
+
+<img src="https://raw.githubusercontent.com/nadir-it/AutoFarm/main/rain_gauge.jpg" width="80%">
