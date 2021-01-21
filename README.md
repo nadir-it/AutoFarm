@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/nadir-it/AutoFarm/main/rain_gauge.jpg">
 
 # AutoFarm
-Solar powered AVR irrigation system
+Solar powered irrigation system using donated 20 year old solar panels and a shoestring budget.
 
 A battery powered real-time clock is used to keep track of irrigation scheduling in the event of a total power failure.
 
