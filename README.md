@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nadir-it/AutoFarm/main/OpAmp.JPG" width="80%">
+<img src="https://raw.githubusercontent.com/nadir-it/AutoFarm/main/rain_gauge.jpg">
 
 # AutoFarm
 Solar powered AVR irrigation system
@@ -15,4 +15,4 @@ Hibernate mode with interrupt wake needs to be implemented at a later date.
 
 Code makes use of RTClib which is available under an MIT license. The rest of this project is available under GNU General Public License v3.
 
-<img src="https://raw.githubusercontent.com/nadir-it/AutoFarm/main/rain_gauge.jpg" width="80%">
+<img src="https://raw.githubusercontent.com/nadir-it/AutoFarm/main/OpAmp.JPG">
