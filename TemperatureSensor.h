@@ -2,7 +2,7 @@
  * TemperatureSensor.h
  *
  * Created: 12/8/2019 4:41:16 PM
- *  Author: T
+ *  Author: Tristan Callahan
  */ 
 
 

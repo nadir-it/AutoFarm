@@ -2,7 +2,7 @@
  * RainGauge.cpp
  *
  * Created: 12/20/2019 7:36:21 PM
- *  Author: T
+ *  Author: Tristan Callahan
  */ 
 #include "Arduino.h"
 #include "RainGauge.h"

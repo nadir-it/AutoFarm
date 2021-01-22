@@ -3,7 +3,7 @@
  * On any system which supports it you might as well #include <vector> and you will get almost the same results
  * except for backCopy()... this was basically an early morning hack... or was it late night?
  * Created: 12/8/2019 6:00:49 PM
- *  Author: T
+ *  Author: Tristan Callahan
  */ 
 
 

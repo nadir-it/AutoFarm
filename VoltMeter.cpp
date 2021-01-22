@@ -2,7 +2,7 @@
  * VoltMeter.cpp
  *
  * Created: 12/20/2019 7:25:12 PM
- *  Author: T
+ *  Author: Tristan Callahan
  */ 
 
 

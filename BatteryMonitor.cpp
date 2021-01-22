@@ -2,7 +2,7 @@
  * BatteryMonitor.cpp
  *
  * Created: 12/20/2019 7:42:52 PM
- *  Author: T
+ *  Author: Tristan Callahan
  */ 
 
 

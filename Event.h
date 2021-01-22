@@ -2,7 +2,7 @@
  * Event.h
  *
  * Created: 12/8/2019 2:31:05 PM
- *  Author: T
+ *  Author: Tristan Callahan
  */ 
 
 

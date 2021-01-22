@@ -2,7 +2,7 @@
  * TemperatureSensor.cpp
  *
  * Created: 12/20/2019 7:37:23 PM
- *  Author: T
+ *  Author: Tristan Callahan
  */ 
 
 #include <Arduino.h>

@@ -2,7 +2,7 @@
  * Vector.cpp
  *
  * Created: 12/20/2019 12:40:51 PM
- *  Author: T
+ *  Author: Tristan Callahan
  */ 
 
 //#include "Priority.h"

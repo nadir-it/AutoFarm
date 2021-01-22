@@ -2,7 +2,7 @@
  * Ammeter.h
  *
  * Created: 12/8/2019 4:41:29 PM
- *  Author: T
+ *  Author: TC
  */ 
 
 

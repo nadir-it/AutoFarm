@@ -2,7 +2,7 @@
  * IrrigationValve.cpp
  *
  * Created: 12/20/2019 7:34:58 PM
- *  Author: T
+ *  Author: Tristan Callahan
  */ 
 
 #include "IrrigationValve.h"

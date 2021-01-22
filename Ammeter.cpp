@@ -2,7 +2,7 @@
  * Ammeter.cpp
  *
  * Created: 12/20/2019 7:34:32 PM
- *  Author: T
+ *  Author: User
  */ 
 
 #include <Arduino.h>

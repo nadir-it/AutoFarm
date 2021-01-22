@@ -2,7 +2,7 @@
  * VoltMeter.h
  *
  * Created: 12/20/2019 7:24:50 PM
- *  Author: T
+ *  Author: Tristan Callahan
  */ 
 
 
