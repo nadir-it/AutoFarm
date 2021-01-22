@@ -1,0 +1,7 @@
+ArduinoCore/
+RTClib-master/
+Debug/
+include/
+src/
+AutoFarm.componentinfo.xml
+AutoFarm.cppproj
